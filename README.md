@@ -27,6 +27,7 @@
 
 #  Inverted Index
 
+<img src="https://user-images.githubusercontent.com/13411738/64319431-4b608800-cff7-11e9-874c-ad8f2381f157.png" width="800">
 
 
 
