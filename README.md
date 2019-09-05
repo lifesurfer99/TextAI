@@ -11,4 +11,5 @@
 # Boolean retrieval ( 불리언 검색 )
 
 ● 불리언 모델은 정보 검색 시스켐을 기초로 한 가장 간단한 모델
+
 ● 쿼리는 불리언 표현식이다 e.g., CAESAR AND BRUTUS
