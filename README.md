@@ -17,7 +17,7 @@
 
 # Google이 Boolean Model을 사용할까?
 
-● Google에서 쿼리 [w1 w2 ... wn] 의 기본적인 해서은 w1 AND w2 AND ... AND wn이다.
+● Google에서 쿼리 [w1 w2 ... wn] 의 기본적인 해석은 w1 AND w2 AND ... AND wn이다.
 
 ● wi 중 하나를 포함하지 않는 케이스들
 
